@@ -5,7 +5,7 @@ Software Engineering Student
 ----------------------------
 
 * 🌍  I'm based in Paraguay
-* 🧠  I'm learning Java for backend development
+* 🧠  Pursuing the career of full-stack developer
 
 ### Skills
 
